@@ -5,6 +5,6 @@
 // <return type> nameOfFunction (<formal parameter list>);
 int computeSum();
 void addTwoInts();
-int average(int, int, int);
+double average(int, int, int);
 
 #endif
