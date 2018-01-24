@@ -2,8 +2,9 @@
 
 int computeSum()
 {
-	int x, y;
+	int x, y, z;
 	x = 5;
 	y = 8;
-	return (x + y);
+	z = 14;
+	return (x + y+ z);
 }
